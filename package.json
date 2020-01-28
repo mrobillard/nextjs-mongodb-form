@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-mongodb-form",
+  "version": "1.0.0",
+  "description": "Next.js and MongoDB form example",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^3.5.2",
+    "next": "^9.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "swr": "^0.1.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev -p 3003",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Matt Robillard",
+  "license": "MIT"
+}
